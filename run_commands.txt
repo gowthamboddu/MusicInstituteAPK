@@ -1,0 +1,5 @@
+cd ~/softwares/olympika_tech/APK/MusicInstitute/android
+
+./gradlew clean
+./gradlew bundleRelease
+./gradlew assembleRelease
